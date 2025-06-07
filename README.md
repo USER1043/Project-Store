@@ -56,14 +56,9 @@ This project is perfect for beginners aiming to get hands-on experience with ful
 
 ## 📬 Feedback
 
+This project is meant for learning purposes and demonstrates basic CRUD functionality using MERN and Chakra UI. No authentication, file uploads, or advanced features are included.
 If you found this helpful, feel free to fork, star ⭐, or open an issue to share improvements or bugs.
 
 ---
 
 Built with passion, code, and no late-night coffee btw 😉.
-
-## 📝 Notes
-
-This project is meant for learning purposes and demonstrates basic CRUD functionality using MERN and Chakra UI. No authentication, file uploads, or advanced features are included.
-
-Feel free to fork or build on top of it.
